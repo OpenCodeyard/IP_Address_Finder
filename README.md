@@ -1,4 +1,9 @@
 # IP-Address-Finder
+
+IP-Address-Finder With the help of splay tree data structure, we would create a tree whose nodes are embedded with the Ip address of the device that are connect to a specific network router. In our code we have taken 11 devices connected to one network router and so there would be some common part in the Ip address of each of the devices.
+IP Location Lookup tool provides you free location tracking of an entered IP Address. It tracks the IP's city, country, latitude, and longitude data instantly through various Geo IP Databases available in the market.
+
+If you are concerned about the GeoLocation data accuracy for the data listed below, please review the GeoLocation accuracy information for clarification.
 With the help of splay tree data structure, we would create a tree whose nodes are
 embedded with the Ip address of the device that are connect to a specific network router. In our
 code we have taken 11 devices connected to one network router and so there would be some
